@@ -22,7 +22,7 @@ RUN -> SLOW -> STOP -> REVERSE -> STOP -> RESUME (ramped) -> RUN
 
 ### Simulation (illustrative model, assumed parameters)
 
-![Simulation results]
+[Simulation results](jam_simulation.png)
 
 A jam is introduced at 15 s and grows until 30 s. The uncontrolled machine
 keeps drawing high current and ends up nearly stalled. The controller detects
