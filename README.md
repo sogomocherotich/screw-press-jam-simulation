@@ -3,7 +3,7 @@
 An adaptive, load-based controller that detects and clears jams on a scaled
 screw-press rig, and performs measurably better than an uncontrolled baseline.
 
-![Simulation: no control vs with control] 
+[Simulation: Comparison of no control vs with control] 
 
 ## Problem
 During operation, screw presses often encounter jams. This is usually caused by accumulation of seed oil press cake at the discharge outlet during oil extraction. The operator would have to disassemble the machine to remove the accumulated cake, which is tedious and tiresome. Frequent jam occurrence reduces efficiency of the machine while also reducing the quality of oil extracted, as some oil cakebits escape as a result of the accumulation. 
