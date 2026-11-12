@@ -6,7 +6,7 @@ screw-press rig, and performs measurably better than an uncontrolled baseline.
 [Simulation: Comparison of no control vs with control] 
 
 ## Problem
-During operation, screw presses often encounter jams. This is usually caused by accumulation of seed oil press cake at the discharge outlet during oil extraction. The operator would have to disassemble the machine to remove the accumulated cake, which is tedious and tiresome. Frequent jam occurrence reduces efficiency of the machine while also reducing the quality of oil extracted, as some oil cakebits escape as a result of the accumulation. With an aim to alleviate this, designing an adaptive load control system which would help in not only jam detection but jam recovery
+During operation, screw presses often encounter jams. This is usually caused by accumulation of seed oil press cake at the discharge outlet during oil extraction. The operator would have to disassemble the machine to remove the accumulated cake, which is tedious and tiresome. Frequent jam occurrence reduces efficiency of the machine. Since cakebits escape as a result of the accumulation this also reduces the quality of oil extracted. With an aim to combact this, designing an adaptive load control system which would help in not only jam detection but jam recovery.
 
 ## Approach
 The controller monitors motor current and speed and runs this sequence:
