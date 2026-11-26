@@ -39,7 +39,7 @@ the sequence runs twice, and the machine then recovers fully.
 | Final speed                      | 43 rad/s   | 193 rad/s    |
 
 The ramped restart keeps the resume current spike under 6 A, compared with
-about 14 A for an abrupt restart in an earlier version of the model.
+about 12.1 A for an abrupt restart in an earlier version of the model.
 
 **These numbers come from a model, not the machine.** The motor and jam
 parameters are illustrative, and the model assumes that reversing clears the
