@@ -1,4 +1,4 @@
-# Adaptive Anti-Jam Controller for a Screw Press- Still in progress
+# Adaptive Anti-Jam Controller Python Simulation for a Screw Press- Still in progress
 
 An adaptive, load-based controller that detects and clears jams on a scaled
 screw-press rig, and performs measurably better than an uncontrolled baseline.
